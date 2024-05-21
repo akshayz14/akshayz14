@@ -15,7 +15,7 @@ Here are some of my top projects:
 Offline stories for reading on the go.
 
 ### [Coin](https://github.com/akshayz14/Crypto)
-List of crypto coins using clean architecture.
+List of crypto coins having search and filter functionality with remote, DB and Repository pattern.
 
 ## Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
