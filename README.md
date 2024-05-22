@@ -1,7 +1,7 @@
-# Hi there, I'm Akshay Patil 👋
+# Hi there, I'm Akshay 👋
 
 ## About Me
-I'm a passionate senior Android developer with a love for creating impactful solutions using Android, Java, and Kotlin. I enjoy working on open-source projects and collaborating with the developer community.
+I'm a passionate Senior Android Developer with a love for creating impactful solutions using Android, Java, and Kotlin. I enjoy working on open-source projects and collaborating with the developer community.
 
 - 🌱 I’m currently learning Jetpack Compose and hybrid technologies such as Flutter.
 - 👯 I’m looking to collaborate on Android projects that help me stay updated with new trends in Android development.
@@ -19,7 +19,7 @@ List of crypto coins having search and filter functionality with remote, DB and 
 
 ## Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
