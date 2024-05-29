@@ -15,7 +15,7 @@ Here are some of my top projects:
 List of crypto coins having search and filter functionality with remote, DB and Repository pattern.
 
 
-### [Coin](https://github.com/akshayz14/ricknmorty)
+### [Rick and Morty](https://github.com/akshayz14/ricknmorty)
 Android app with clean architecture that uses : [https://rickandmortyapi.com/]
 
 ### [Storily](https://github.com/akshayz14/story)
