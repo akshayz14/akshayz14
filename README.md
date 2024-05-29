@@ -1,8 +1,7 @@
 # Hi there, I'm Akshay 👋
 
 ## About Me
-I'm a passionate Senior Android Developer with a love for creating impactful solutions using Android, Java, and Kotlin. I enjoy working on open-source projects and collaborating with the developer community.
-
+I'm a passionate Senior Android Developer with a love for creating impactful solutions using Android, Java, and Kotlin. I enjoy working on new trends in android development. 
 - 🌱 I’m currently learning Jetpack Compose and hybrid technologies such as Flutter.
 - 👯 I’m looking to collaborate on Android projects that help me stay updated with new trends in Android development.
 - 💬 Ask me about Android development, Android interviews, and the latest Android trends.
