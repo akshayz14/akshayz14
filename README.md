@@ -11,11 +11,15 @@ I'm a passionate Senior Android Developer with a love for creating impactful sol
 ## My Projects
 Here are some of my top projects:
 
-### [Storily](https://github.com/akshayz14/story)
-Offline stories for reading on the go.
-
 ### [Coin](https://github.com/akshayz14/Crypto)
 List of crypto coins having search and filter functionality with remote, DB and Repository pattern.
+
+
+### [Coin](https://github.com/akshayz14/ricknmorty)
+Android app with clean architecture that uses : [https://rickandmortyapi.com/]
+
+### [Storily](https://github.com/akshayz14/story)
+Offline stories for reading on the go.
 
 ## Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
